@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=pyqtconsole_krita
+X-Python-2-Compatible=false
+X-Krita-Manual=myPluginManual.html
+Name=Python Console
+Comment=pyqtconsole_krita with pyside dependency
